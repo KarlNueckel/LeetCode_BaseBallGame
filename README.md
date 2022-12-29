@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/87345979/210020208-ba2e3cb1-af50-4295-b1c0-af8a1a4ec95b.png)
 ![image](https://user-images.githubusercontent.com/87345979/210020221-e4ca8a68-e311-4ae8-a9a6-a6abac10e82b.png)
 
-# Code
+# My Solution
     class Solution:
     def calPoints(self, operations: List[str]) -> int:
         index = 0
