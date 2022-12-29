@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/87345979/210020221-e4ca8a68-e311-4ae8-a9a6-a6abac10e82b.png)
 
 # Code
-  class Solution:
+    class Solution:
     def calPoints(self, operations: List[str]) -> int:
         index = 0
         record: List[int] = [0]
